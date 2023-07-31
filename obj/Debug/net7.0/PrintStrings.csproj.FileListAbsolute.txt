@@ -1,0 +1,15 @@
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\bin\Debug\net7.0\PrintStrings.exe
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\bin\Debug\net7.0\PrintStrings.deps.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\bin\Debug\net7.0\PrintStrings.runtimeconfig.json
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\bin\Debug\net7.0\PrintStrings.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\bin\Debug\net7.0\PrintStrings.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.csproj.AssemblyReference.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.AssemblyInfoInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.AssemblyInfo.cs
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.csproj.CoreCompileInputs.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\refint\PrintStrings.dll
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.pdb
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\PrintStrings.genruntimeconfig.cache
+C:\Users\Xande\OneDrive\Documentos\Vscode Projects\Dev. .NET\PrintStrings\obj\Debug\net7.0\ref\PrintStrings.dll
